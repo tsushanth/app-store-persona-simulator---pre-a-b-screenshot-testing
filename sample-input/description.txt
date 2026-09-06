@@ -1,0 +1,14 @@
+FitLog — Simple Workout Tracker
+
+Track your workouts and build strength with custom routines. FitLog makes it
+fast to log sets, reps, and weight so you can focus on training, not typing.
+
+Features:
+- Log workouts in seconds with quick-add templates
+- Custom routines tailored to your goals
+- Progress charts to visualize strength gains over time
+- Works offline, syncs when you're back online
+- No ads, no clutter, just your training data
+
+Whether you're just getting started or chasing a new personal record, FitLog
+keeps your training organized so you can stay consistent and motivated.

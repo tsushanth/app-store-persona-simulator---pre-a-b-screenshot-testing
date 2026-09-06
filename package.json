@@ -1,0 +1,21 @@
+{
+  "name": "app-store-persona-simulator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local CLI that simulates how distinct user personas perceive an App Store listing before running real A/B screenshot tests.",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "test": "node --import tsx --test src/**/*.test.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "commander": "^12.1.0",
+    "tesseract.js": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
